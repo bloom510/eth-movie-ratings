@@ -5,7 +5,9 @@ Goal:
 - Create a UI that imports such contracts and interacts with them via the Web3 JavaScript API
 
 Quick start:
-Makre sure you have Truffle and TestRPC installed:
+
+Make sure you have Truffle and TestRPC installed:
+
 `npm install -g truffle ethereumjs-testrpc`
 
 Then follow the rest of these steps:
@@ -24,7 +26,7 @@ npm start
 
 ```
 
-You can click on movie titles to vote, and view transactions in the command-line running testrpc.
+You can click on movie titles to vote, and view transactions in the command-line running testrpc.g
 
 
  Created with the help of [this tutorial](https://medium.com/@takleakshar/how-to-build-a-decentralized-full-stack-app-in-ethereum-and-react-42e63d45a208) by Akshar Takle
