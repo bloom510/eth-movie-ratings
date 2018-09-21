@@ -26,7 +26,7 @@ npm start
 
 ```
 
-You can click on movie titles to vote, and view transactions in the command-line running testrpc.g
+You can click on movie titles to vote, and view transactions in the command-line running testrpc.
 
 
  Created with the help of [this tutorial](https://medium.com/@takleakshar/how-to-build-a-decentralized-full-stack-app-in-ethereum-and-react-42e63d45a208) by Akshar Takle
