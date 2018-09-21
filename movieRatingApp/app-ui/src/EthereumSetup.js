@@ -8,4 +8,4 @@ web3.eth.defaultAccount = web3.eth.accounts[0]
 
 // Export the configuration so we can make API calls from our app
 const ratingContract=web3.eth.contract(ratingABI).at(ratingAddress);
-export {ratingContract};
+export {ratingContract};g
